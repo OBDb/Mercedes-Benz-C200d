@@ -1,0 +1,15 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class"
+
+generations:
+  - name: "Fourth Generation Facelift (W205)"
+    start_year: 2018
+    end_year: 2021
+    platform: "W205"
+    description: "The W205 received a mid-life update at the 2018 Geneva Motor Show, introducing Mercedes' simplified naming convention with 'd' suffix for diesel engines. The C200d features a 2.0L turbocharged four-cylinder diesel engine (OM654) with mild hybrid assistance. The facelift included exterior changes, new dashboard design, and updated infotainment system."
+
+  - name: "Fifth Generation (W206)"
+    start_year: 2021
+    end_year: null
+    platform: "W206"
+    description: "The fifth generation W206 C-Class was unveiled on February 23, 2021. The C200d is equipped with an updated 2.0L four-cylinder diesel engine (OM654 m) featuring an integrated starter generator (15 kW electric motor) and 48-volt electrical system. The new platform uses extensive aluminum for weight reduction. In China, a long-wheelbase version (V206) is offered."
